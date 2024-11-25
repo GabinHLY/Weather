@@ -86,6 +86,6 @@ Licence 📝
 Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus de détails.
 
 Contact ✉️
-Auteur : [Votre Nom]
-Email : [votre.email@example.com]
-GitHub : [VotreProfilGitHub]
+Auteur : Gabin Duboc
+Email : gabinhly@gmail.com
+GitHub : GabinHLY
